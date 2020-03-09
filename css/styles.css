@@ -69,8 +69,8 @@ video {
 .momo_instagram, .momo_buzzfeed, .momo_guardian, .momo_first_suicide, .kim,
 .momo_cbs, .momo_cnn, .momo_atlantic {
   position: absolute;
-  width: auto;
-  height: auto;
+  width: 100px;
+  height: 100px;
 }
 
 .momo_buzzfeed {
